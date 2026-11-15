@@ -7,4 +7,4 @@ Na porta 1 as luzes piscam, o Rush vem pelo corredor e só existem dois armário
 - Vídeo: `video_final/portas01_final.mp4`
 - Final com voto: **A · LUNA** ou **B · RAFA** (a mais votada decide a Parte 2)
 
-Esta versão tem legendas, trilha e efeitos sonoros, ainda sem as vozes dos personagens.
+Versão com vozes (ElevenLabs), legendas, trilha e efeitos sonoros. Duração: 69,7 s.
